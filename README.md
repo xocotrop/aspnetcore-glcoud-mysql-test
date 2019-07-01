@@ -1,1 +1,1 @@
-# aspnetcore-glcoud-mysql-test
+# aspnetcore-glcoud-test
